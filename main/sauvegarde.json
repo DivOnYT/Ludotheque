@@ -1,0 +1,20 @@
+{
+   "__class__": "Ludotheque",
+   "__value__": {
+      "nom": "gta",
+      "manager": {
+         "__class__": "Personne",
+         "__value__": {
+            "prenom": "d",
+            "nom": "dd",
+            "telephone": "32",
+            "adresse": "d",
+            "date_naissance": "3232"
+         }
+      },
+      "personnes": [],
+      "emprunt": [],
+      "hobbies": [],
+      "gamesession": []
+   }
+}
